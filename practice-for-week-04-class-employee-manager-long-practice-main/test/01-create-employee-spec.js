@@ -1,5 +1,5 @@
 const chai = require('chai');
-const expect = chai.expect; test
+const expect = chai.expect; 
 
 const Employee = require('../employee');
 
